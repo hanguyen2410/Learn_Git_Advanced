@@ -31,10 +31,12 @@
 
 }
 
+/* ---Phung--- */
 .phung{
     background-color: black;
-
 }
+
+
 /* phú lần 2 */
 #btn_delete{
     margin: 12px;
@@ -44,3 +46,8 @@
     font-weight: 600;
     opacity: 0.8;
 }
+.container{
+    background-color: aquamarine;
+}
+
+/* ----End Phung -----*/

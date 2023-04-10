@@ -44,8 +44,14 @@ function namcao () {
   console.log("đâsdsaddfgfdgfd");
 }
 
+<<<<<<< HEAD
 // thủy 
 function test() {
   alert("2222222");
 }
 
+=======
+function namcao2 () {
+  console.log("tao đéo nói thế");
+}
+>>>>>>> 6356b28f570be9f7566e8b7c184a70cc60d174c1

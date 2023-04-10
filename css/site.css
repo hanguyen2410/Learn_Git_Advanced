@@ -92,7 +92,7 @@ h1{
 }
 
 .abc{
-    background-color: white;
+    
 }
 
 /* ----End Phung -----*/
@@ -115,8 +115,17 @@ h1{
     border: #565656;
     box-shadow: 3px;
 }
-/* ---------End Ha Lan 3-------- */
 
+.div {
+    width: 5px;
+    height: 10px;
+}
+
+.p {
+    background-color: antiquewhite;
+    bottom: 5px;
+}
+/* ---------End Ha Lan 3-------- */
 
 /* Thủy  */
 .table{

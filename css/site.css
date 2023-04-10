@@ -18,6 +18,7 @@
     text-align: center;
 }
 
+<<<<<<< HEAD
 
 .table th:hover{
     background: red;
@@ -29,4 +30,8 @@
     padding: 4px;
     
 
+=======
+.phung{
+    background-color: black;
+>>>>>>> 410ee83e9456fc67e84e9ea1788671fb1b1f12ad
 }

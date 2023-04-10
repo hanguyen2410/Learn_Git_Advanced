@@ -17,3 +17,8 @@
     background-color: aquamarine;
     text-align: center;
 }
+
+.table th:hover{
+    background: red;
+    border-radius: 5px;
+}

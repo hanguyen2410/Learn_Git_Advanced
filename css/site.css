@@ -98,6 +98,7 @@ h1{
 /* ----End Phung -----*/
 
 
+
 /* phú lần 3 */
 #btn_create {
     margin: 12px;
@@ -116,3 +117,18 @@ h1{
 }
 /* ---------End Ha Lan 3-------- */
 
+
+/* Thủy  */
+.table{
+    position: relative;
+    margin: 0;
+    padding: auto;
+    color: #000;
+    border-radius: 0%;
+}
+
+.btn{
+    overflow: hidden;
+    right: 0;
+    padding: 0;
+}

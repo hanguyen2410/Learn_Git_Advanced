@@ -21,6 +21,31 @@
 }
 
 
+
+.table th:hover{
+    background: red;
+    border-radius: 5px;
+}
+.input{
+    color: #ccc;
+    font-size: 16px;
+    padding: 4px;
+    
+
+}
+
+/* ---Phung--- */
+.phung{
+    background-color: black;
+}
+
+.container{
+    background-color: aquamarine;
+}
+
+/* ----End Phung -----*/
+
+
 /* Thủy */
 
 h1{
@@ -64,6 +89,10 @@ h1{
 
 .container{
     background-color: aquamarine;
+}
+
+.abc{
+    
 }
 
 /* ----End Phung -----*/

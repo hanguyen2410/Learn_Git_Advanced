@@ -10,6 +10,8 @@ function lear () {
 // ----Phung ------//
 function phung(){
     a + b + c == 3;
+
+    d + e + f == 4;
 }
 
 phung();

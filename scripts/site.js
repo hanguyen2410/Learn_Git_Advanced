@@ -24,6 +24,9 @@ test();
 function testAPhu();
 
 testAPhu();
+
+function testPhung();
+testPhung();
 // ----------End Ha---------
 
 // phú lần 2

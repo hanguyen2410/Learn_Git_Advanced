@@ -1,0 +1,5 @@
+function phung(){
+
+}
+
+phung();

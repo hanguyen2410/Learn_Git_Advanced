@@ -1,11 +1,13 @@
 * {
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
 }
 
 .container {
     max-width: 900px;
     margin: 0px auto;
+    background-color: darkgray;
 }
 
 .test {

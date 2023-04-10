@@ -18,23 +18,23 @@
     text-align: center;
 }
 
-
 .table th:hover{
     background: red;
     border-radius: 5px;
 }
-.input{
-    color: #ccc;
-    font-size: 16px;
-    padding: 4px;
-    
 
+
+.table tbody td{
+    text-align: center;
+    color: aquamarine;
 }
+
 
 /* ---Phung--- */
 .phung{
     background-color: black;
 }
+
 
 
 /* phú lần 2 */
@@ -46,8 +46,10 @@
     font-weight: 600;
     opacity: 0.8;
 }
+
 .container{
     background-color: aquamarine;
 }
 
 /* ----End Phung -----*/
+

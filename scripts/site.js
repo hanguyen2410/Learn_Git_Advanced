@@ -41,3 +41,8 @@ function namcao () {
   console.log("đâsdsaddfgfdgfd");
 }
 
+// thủy 
+function test() {
+  alert("2222222");
+}
+

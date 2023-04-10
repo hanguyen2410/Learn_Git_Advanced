@@ -24,6 +24,12 @@ test();
 function testAPhu();
 
 testAPhu();
+
+function testPhung();
+testPhung();
+
+function testThuy();
+testThuy();
 // ----------End Ha---------
 
 // phú lần 2
@@ -44,5 +50,9 @@ function namcao () {
 // thủy 
 function test() {
   alert("2222222");
+}
+
+function namcao2 () {
+  console.log("tao đéo nói thế");
 }
 

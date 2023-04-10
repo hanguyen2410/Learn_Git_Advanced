@@ -111,8 +111,17 @@ h1{
     border: #565656;
     box-shadow: 3px;
 }
-/* ---------End Ha Lan 3-------- */
 
+.div {
+    width: 5px;
+    height: 10px;
+}
+
+.p {
+    background-color: antiquewhite;
+    bottom: 5px;
+}
+/* ---------End Ha Lan 3-------- */
 
 /* Thủy  */
 .table{
@@ -127,19 +136,4 @@ h1{
     overflow: hidden;
     right: 0;
     padding: 0;
-}
-
-/* thủy */
-.test{
-    padding: 0;
-    margin: 0;
-    background-color: #000;
-    flex: auto;
-}
-
-.abc{
-    padding: 0;
-    margin: 0;
-    background-color: #000;
-    flex: auto;
 }

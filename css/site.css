@@ -68,3 +68,17 @@ h1{
 
 /* ----End Phung -----*/
 
+/* Thủy  */
+.table{
+    position: relative;
+    margin: 0;
+    padding: auto;
+    color: #000;
+    border-radius: 0%;
+}
+
+.btn{
+    overflow: hidden;
+    right: 0;
+    padding: 0;
+}

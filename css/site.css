@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: aliceblue;  
 }
 
 .container {
@@ -16,6 +18,19 @@
 .table{
     background-color: aquamarine;
     text-align: center;
+}
+
+
+/* Thủy */
+
+h1{
+    font-size: 30px;
+    color: aqua;
+}
+
+.btn{
+    padding: 0;
+    margin: 0;
 }
 
 .table th:hover{

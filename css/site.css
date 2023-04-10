@@ -1,11 +1,9 @@
 * {
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
-<<<<<<< HEAD
-=======
     font-size: 10px;
     color: aliceblue;  
->>>>>>> 5c70cae3a2050b87f2b85052384b13db72215b55
+
 }
 
 .container {
@@ -23,7 +21,6 @@
     text-align: center;
 }
 
-<<<<<<< HEAD
 
 .table th:hover{
     background: red;
@@ -47,7 +44,7 @@
 }
 
 /* ----End Phung -----*/
-=======
+
 /* Thủy */
 
 h1{
@@ -60,4 +57,4 @@ h1{
     margin: 0;
 }
 
->>>>>>> 5c70cae3a2050b87f2b85052384b13db72215b55
+

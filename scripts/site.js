@@ -11,3 +11,9 @@ function phung(){
 }
 
 phung();
+
+// phú lần 2
+
+function lotan () {
+  console.log("nhiều tiền thì cũng phiền não như ít tiền");
+}

@@ -19,6 +19,10 @@ function test();
  
 test();
 
+function testAPhu();
+
+testAPhu();
+// ----------End Ha---------
 
 // phú lần 2
 
@@ -28,7 +32,6 @@ function lotan () {
 
 
 // ---- End Phung ------//
-
 
 // phú lần 3
 

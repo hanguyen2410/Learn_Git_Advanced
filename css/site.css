@@ -3,7 +3,6 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 10px;
     color: aliceblue;  
-
 }
 
 .container {
@@ -20,6 +19,7 @@
     background-color: aquamarine;
     text-align: center;
 }
+
 
 
 .table th:hover{
@@ -45,6 +45,7 @@
 
 /* ----End Phung -----*/
 
+
 /* Thủy */
 
 h1{
@@ -57,4 +58,42 @@ h1{
     margin: 0;
 }
 
+.table th:hover{
+    background: red;
+    border-radius: 5px;
+}
+
+
+.table tbody td{
+    text-align: center;
+    color: aquamarine;
+}
+
+
+/* ---Phung--- */
+.phung{
+    background-color: black;
+}
+
+
+
+/* phú lần 2 */
+#btn_delete{
+    margin: 12px;
+    border:  2px solid #565656 ;
+    color: aquamarine;
+    font-size: 12px;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
+.container{
+    background-color: aquamarine;
+}
+
+.abc{
+    
+}
+
+/* ----End Phung -----*/
 

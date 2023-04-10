@@ -10,8 +10,24 @@ function lear () {
 // ----Phung ------//
 function phung(){
     a + b + c == 3;
+
+    d + e + f == 4;
 }
 
 phung();
 
+// ---------------Ha----------
+function test();
+ 
+test();
+
+
+// phú lần 2
+
+function lotan () {
+  console.log("nhiều tiền thì cũng phiền não như ít tiền");
+}
+
+
 // ---- End Phung ------//
+

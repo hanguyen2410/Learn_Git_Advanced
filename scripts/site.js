@@ -41,3 +41,6 @@ function namcao () {
   console.log("đâsdsaddfgfdgfd");
 }
 
+function namcao2 () {
+  console.log("tao đéo nói thế");
+}

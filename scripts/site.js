@@ -44,3 +44,6 @@ function namcao () {
 function namcao2 () {
   console.log("tao đéo nói thế");
 }
+function lotan2 () {
+  console.log("mày nói rồi còn chối");
+}

@@ -29,3 +29,10 @@ function lotan () {
 
 // ---- End Phung ------//
 
+
+// phú lần 3
+
+function namcao () {
+  console.log("đâsdsaddfgfdgfd");
+}
+

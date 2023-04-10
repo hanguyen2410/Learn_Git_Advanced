@@ -23,7 +23,19 @@
     border-radius: 5px;
 }
 
+
 .table tbody td{
     text-align: center;
     color: aquamarine;
 }
+
+/* phú lần 2 */
+#btn_delete{
+    margin: 12px;
+    border:  2px solid #565656 ;
+    color: aquamarine;
+    font-size: 12px;
+    font-weight: 600;
+    opacity: 0.8;
+}
+

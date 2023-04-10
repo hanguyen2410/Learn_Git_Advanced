@@ -22,3 +22,8 @@
     background: red;
     border-radius: 5px;
 }
+
+.table tbody td{
+    text-align: center;
+    color: aquamarine;
+}

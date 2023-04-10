@@ -11,3 +11,7 @@ function phung(){
 }
 
 phung();
+// ---------------Ha----------
+function test();
+ 
+test();
